@@ -42,7 +42,7 @@ pip install pygame
 
 ## How to Run
 
-1. Download the game script to your local machine
+1. Download the Tile-Block-Puzzle-Game.py raw file to your local machine
 2. Open the Tile-Block-Puzzle-Game.py file in vs code and run the code 
 
 ## Controls
