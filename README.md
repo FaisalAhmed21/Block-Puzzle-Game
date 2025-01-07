@@ -39,14 +39,11 @@ python3 --version
 ```bash
 pip install pygame
 ```
-3. Download the game script to your local machine
 
 ## How to Run
 
-Execute the script using Python:
-```bash
-python Tile-Block-Puzzle-Game.py
-```
+1. Download the game script to your local machine
+2. Open the Tile-Block-Puzzle-Game.py file in vs code and run the code 
 
 ## Controls
 
